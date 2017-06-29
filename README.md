@@ -1,2 +1,2 @@
-# ghumakkad
+# gypsey
 Android app for tourists.
